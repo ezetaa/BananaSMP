@@ -1,328 +1,802 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1719111795400 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111798486 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111801530 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111804600 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111807662 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111810718 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111813773 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111816816 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111819883 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111822962 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111825997 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111829151 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111832219 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111835307 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111838376 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111841473 tunnel running, 1 tunnels registered
-
-Email not verified https://playit.gg/account/settings/account/verify-email
-
-TUNNELS
-directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:25565 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111844627 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1719111999112 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111847676 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719112002211 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111850722 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719112005286 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111854007 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719112008347 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111857043 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719112011402 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111860084 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719112014452 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111863131 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719112017514 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111866164 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719112020560 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111869225 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719112023614 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111872332 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719112026691 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111875371 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719112029837 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111878404 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719112032889 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111881451 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719112035952 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111884504 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719112039021 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111887543 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719112042077 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111890580 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719112045136 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111893667 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719112048201 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111896719 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719112051270 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111899769 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719112054393 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111902811 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719112057444 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111905842 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719112060484 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111908893 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719112063541 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111911940 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719112066589 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111914998 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719112069620 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111918065 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719112072658 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111921120 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719112075704 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111924177 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719112078761 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111927319 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719112081897 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111930372 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719112084947 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111933427 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719112087976 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111936471 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719112091012 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111939504 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719112094065 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111942535 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719112097126 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111945600 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719112100194 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111948648 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719112103233 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111951689 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719112106266 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111954741 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719112109299 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111957779 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719112112339 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
 directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1719111960832 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719112115379 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112118435 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112121476 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112124596 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112127673 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112130711 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112133746 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112136785 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112139814 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112142870 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112146024 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112149102 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112152150 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112155186 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112158232 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112161284 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112164331 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112167393 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112170458 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112173549 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112176619 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112179713 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112182816 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112185844 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112188916 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112191974 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112195022 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112198208 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112201256 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112204306 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112207347 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112210390 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112213440 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112216520 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112219557 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112222592 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112225646 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112228835 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112231869 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112234918 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112238019 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112241211 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112244243 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112247279 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112250333 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112253382 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112256441 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112259510 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112262600 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112265689 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112268738 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112271795 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112274824 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112277854 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112280897 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112283958 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112287018 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112290092 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112293216 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112296281 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112299315 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112302352 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112305436 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112308493 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112311531 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112314564 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112317629 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112320677 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112323723 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112326775 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112329896 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112333007 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112336112 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112339194 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112342227 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112345264 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112348362 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112351458 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112354514 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112357572 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112360647 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112363698 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112366777 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112369820 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112372860 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112375921 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112379125 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112382217 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112385261 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112388334 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112391391 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112394458 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112397539 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112400628 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112403663 tunnel running, 1 tunnels registered
+
+Email not verified https://playit.gg/account/settings/account/verify-email
+
+TUNNELS
+directory-subject.gl.at.ply.gg:27966 => 127.0.0.1:27966 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1719112406701 tunnel running, 1 tunnels registered
 
 Email not verified https://playit.gg/account/settings/account/verify-email
 

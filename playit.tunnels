@@ -37,7 +37,7 @@
           "agent_id": "8f0e582f-1f84-457d-8db0-7076d5216e4f",
           "agent_name": "BananaSMP",
           "local_ip": "127.0.0.1",
-          "local_port": 25565
+          "local_port": 27966
         },
         "type": "agent"
       },
